@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">A passionate Full Stack Developer from Newcastle Upon Tyne</h3>
+<h1 align="left">Hi 👋, I'm Luke</h1>
+<h3 align="left">A passionate Full Stack Developer from Newcastle Upon Tyne</h3>
+
 
 - 🔭 I’m currently working at **Finnmark Sauna**
 
@@ -7,7 +8,6 @@
 
 - 💬 Ask me about **Laravel, PHP, Vue**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
