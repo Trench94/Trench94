@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with [Puppr](https://github.com/Trench94/Puppr)
 
-- 💬 Ask me about **Laravel, PHP, Vue**
+- 💬 Ask me about **Laravel, PHP, Vue, GraphQL**
 
 - ❤️ I love using [Tinkerwell](https://tinkerwell.app/)
 
