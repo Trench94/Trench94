@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with [Puppr](https://github.com/Trench94/Puppr)
 
-- 💬 Ask me about **Laravel, PHP, Vue,**
+- 💬 Ask me about **Laravel, PHP, Vue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
