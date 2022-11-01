@@ -2,9 +2,7 @@
 <h3 align="left">A passionate Full Stack Developer from Newcastle Upon Tyne</h3>
 
 
-- 🔭 I’m currently working at **Finnmark Sauna**
-
-- 🤝 I’m looking for help with [Puppr](https://github.com/Trench94/Puppr)
+- 🔭 I’m currently working at **TDRC**
 
 - 💬 Ask me about **Laravel, PHP, Vue, GraphQL**
 
